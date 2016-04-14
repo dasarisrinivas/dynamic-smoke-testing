@@ -1,0 +1,50 @@
+<list>
+	<dataset>
+		<id>1</id>
+		<objectType>Title</objectType>
+		<objectIdentification></objectIdentification>
+		<objectName></objectName>
+		<objectValue></objectValue>
+		<objectAction>Verification</objectAction>
+		<expectedValue>Facebook - Log In or Sign Up</expectedValue>
+	</dataset>
+
+	<dataset>
+		<id>2</id>
+		<objectType>textbox</objectType>
+		<objectIdentification>name</objectIdentification>
+		<objectName>firstname</objectName>
+		<objectValue>sample</objectValue>
+		<objectAction>sendkeys</objectAction>
+		<expectedValue></expectedValue>
+	</dataset>
+	<dataset>
+		<id>3</id>
+		<objectType>dropdown</objectType>
+		<objectIdentification>id</objectIdentification>
+		<objectName>month</objectName>
+		<objectValue>Mar</objectValue>
+		<objectAction>select</objectAction>
+		<expectedValue></expectedValue>
+	</dataset>
+
+	<dataset>
+		<id>4</id>
+		<objectType>radiobutton</objectType>
+		<objectIdentification>name</objectIdentification>
+		<objectName>sex</objectName>
+		<objectValue></objectValue>
+		<objectAction>click</objectAction>
+		<expectedValue></expectedValue>
+	</dataset>
+	<dataset>
+		<id>5</id>
+		<objectType>button</objectType>
+		<objectIdentification>name</objectIdentification>
+		<objectName>websubmit</objectName>
+		<objectValue></objectValue>
+		<objectAction>submit</objectAction>
+		<expectedValue>Sign Up</expectedValue>
+	</dataset>
+
+</list>

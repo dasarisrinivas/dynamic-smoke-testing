@@ -1,0 +1,210 @@
+2015-12-13 22:01:32,876 [main] INFO Google - Launched Browser
+2015-12-13 22:01:33,224 [main] INFO Google - Verified title
+2015-12-13 22:01:37,610 [main] INFO Google - clicked on link
+2015-12-13 22:01:41,229 [main] INFO Google - Entered values in text box 
+2015-12-13 22:01:49,166 [main] INFO Google - Clicked on submit 
+2015-12-13 22:39:00,449 [main] INFO Google - Launched Browser
+2015-12-13 22:39:00,783 [main] INFO Google - Verified title
+2015-12-13 22:39:05,583 [main] INFO Google - clicked on link
+2015-12-13 22:39:09,149 [main] INFO Google - Entered values in text box 
+2015-12-13 22:39:17,348 [main] INFO Google - checkbox checked 
+2015-12-13 23:04:26,028 [main] INFO Google - Launched Browser
+2015-12-13 23:04:26,535 [main] INFO Google - Verified title
+2015-12-13 23:04:31,424 [main] INFO Google - clicked on link
+2015-12-13 23:04:35,581 [main] INFO Google - Entered values in text box 
+2015-12-13 23:04:43,902 [main] INFO Google - checkbox checked 
+2015-12-13 23:06:09,102 [main] INFO Google - Launched Browser
+2015-12-13 23:06:09,475 [main] INFO Google - Verified title
+2015-12-13 23:06:14,354 [main] INFO Google - clicked on link
+2015-12-13 23:06:18,073 [main] INFO Google - Entered values in text box 
+2015-12-13 23:06:26,198 [main] INFO Google - checkbox checked 
+2015-12-13 23:06:34,047 [main] INFO Google - Clicked on submit 
+2015-12-13 23:49:05,110 [main] INFO Google - Launched Browser
+2015-12-13 23:49:05,400 [main] INFO Google - Verified title
+2015-12-13 23:49:09,261 [main] INFO Google - Entered values in text box 
+2015-12-13 23:53:05,038 [main] INFO Google - Launched Browser
+2015-12-13 23:53:05,267 [main] INFO Google - Verified title
+2015-12-13 23:53:08,848 [main] INFO Google - Entered values in text box 
+2015-12-13 23:53:16,961 [main] INFO Google - value selected from drop down  Mar
+2015-12-13 23:55:17,328 [main] INFO Google - Launched Browser
+2015-12-13 23:55:17,669 [main] INFO Google - Verified title
+2015-12-13 23:55:21,124 [main] INFO Google - Entered values in text box 
+2015-12-13 23:55:29,446 [main] INFO Google - value selected from drop down  Mar
+2015-12-13 23:55:36,864 [main] INFO Google - Radio button clicked 
+2015-12-14 00:01:32,483 [main] INFO Google - Launched Browser
+2015-12-14 00:01:33,128 [main] INFO Google - Verified title
+2015-12-14 00:01:36,669 [main] INFO Google - Entered values in text box 
+2015-12-14 00:01:44,872 [main] INFO Google - value selected from drop down  Mar
+2015-12-14 00:01:52,453 [main] INFO Google - Radio button clicked 
+2015-12-14 00:02:00,319 [main] INFO Google - Clicked on submit 
+2015-12-14 21:32:33,873 [main] INFO Google - Launched Browser
+2015-12-14 21:32:34,151 [main] INFO Google - Verified title
+2015-12-14 21:32:37,996 [main] INFO Google - Entered values in text box 
+2015-12-14 21:32:45,781 [main] INFO Google - value selected from drop down  Mar
+2015-12-14 21:32:52,886 [main] INFO Google - Radio button clicked 
+2015-12-14 21:33:00,334 [main] INFO Google - Clicked on submit 
+2015-12-15 00:26:43,939 [AWT-EventQueue-0] INFO Google - Launched Browser
+2015-12-15 00:26:44,253 [AWT-EventQueue-0] INFO Google - Verified title
+2015-12-15 00:26:47,190 [AWT-EventQueue-0] INFO Google - Entered values in text box 
+2015-12-15 00:26:55,142 [AWT-EventQueue-0] INFO Google - value selected from drop down  Mar
+2015-12-15 00:27:02,287 [AWT-EventQueue-0] INFO Google - Radio button clicked 
+2015-12-15 00:27:09,889 [AWT-EventQueue-0] INFO Google - Clicked on submit 
+2015-12-15 00:28:28,919 [AWT-EventQueue-0] INFO Google - Launched Browser
+2015-12-15 00:28:29,271 [AWT-EventQueue-0] INFO Google - Verified title
+2015-12-15 00:28:32,623 [AWT-EventQueue-0] INFO Google - Entered values in text box 
+2015-12-15 00:28:40,172 [AWT-EventQueue-0] INFO Google - value selected from drop down  Mar
+2015-12-15 00:28:47,604 [AWT-EventQueue-0] INFO Google - Radio button clicked 
+2015-12-15 00:28:54,572 [AWT-EventQueue-0] INFO Google - Clicked on submit 
+2015-12-15 00:45:55,514 [AWT-EventQueue-0] INFO Google - Launched Browser
+2015-12-15 00:45:55,837 [AWT-EventQueue-0] INFO Google - Verified title
+2015-12-15 00:57:52,663 [AWT-EventQueue-0] INFO Google - Launched Browser
+2015-12-15 00:57:53,063 [AWT-EventQueue-0] INFO Google - Verified title
+2015-12-15 00:57:56,507 [AWT-EventQueue-0] INFO Google - Entered values in text box 
+2015-12-15 00:58:04,024 [AWT-EventQueue-0] INFO Google - value selected from drop down  Mar
+2015-12-15 00:58:11,186 [AWT-EventQueue-0] INFO Google - Radio button clicked 
+2015-12-15 00:58:18,614 [AWT-EventQueue-0] INFO Google - Clicked on submit 
+2015-12-15 16:09:06,403 [AWT-EventQueue-0] INFO Google - Launched Browser
+2015-12-15 16:09:07,137 [AWT-EventQueue-0] INFO Google - Verified title
+2015-12-15 16:09:10,132 [AWT-EventQueue-0] INFO Google - Entered values in text box 
+2015-12-15 16:09:17,589 [AWT-EventQueue-0] INFO Google - value selected from drop down  Mar
+2015-12-15 16:09:24,418 [AWT-EventQueue-0] INFO Google - Radio button clicked 
+2015-12-15 16:09:31,446 [AWT-EventQueue-0] INFO Google - Clicked on submit 
+2015-12-15 16:41:58,037 [AWT-EventQueue-0] INFO Google - Launched Browser
+2015-12-15 16:41:58,392 [AWT-EventQueue-0] INFO Google - Verified title
+2015-12-15 16:42:01,836 [AWT-EventQueue-0] INFO Google - Entered values in text box 
+2015-12-15 16:42:09,848 [AWT-EventQueue-0] INFO Google - value selected from drop down  Mar
+2015-12-15 16:42:17,437 [AWT-EventQueue-0] INFO Google - Radio button clicked 
+2015-12-15 16:42:24,899 [AWT-EventQueue-0] INFO Google - Clicked on submit 
+2015-12-15 17:04:53,231 [AWT-EventQueue-0] INFO App Log - Launched Browser
+2015-12-15 17:04:53,488 [AWT-EventQueue-0] INFO App Log - Verified title
+2015-12-15 17:04:56,360 [AWT-EventQueue-0] INFO App Log - Entered values in text box 
+2015-12-15 17:05:03,735 [AWT-EventQueue-0] INFO App Log - value selected from drop down  Mar
+2015-12-15 17:05:10,571 [AWT-EventQueue-0] INFO App Log - Radio button clicked 
+2015-12-15 17:05:17,393 [AWT-EventQueue-0] INFO App Log - Clicked on submit 
+2015-12-15 17:05:19,394 [AWT-EventQueue-0] INFO App Log - Total verification  count 2
+2015-12-15 17:05:19,400 [AWT-EventQueue-0] INFO App Log - Total pass  count 2
+2015-12-15 17:05:19,401 [AWT-EventQueue-0] INFO App Log - Total fail   count 0
+2015-12-15 17:22:42,048 [AWT-EventQueue-0] INFO App Log - Launched Browser
+2015-12-15 17:22:42,330 [AWT-EventQueue-0] INFO App Log - Verified title
+2015-12-15 17:22:45,400 [AWT-EventQueue-0] INFO App Log - Entered values in text box 
+2015-12-15 17:22:53,209 [AWT-EventQueue-0] INFO App Log - value selected from drop down  Mar
+2015-12-15 17:23:00,151 [AWT-EventQueue-0] INFO App Log - Radio button clicked 
+2015-12-15 17:23:07,401 [AWT-EventQueue-0] INFO App Log - Clicked on submit 
+2015-12-15 17:23:09,403 [AWT-EventQueue-0] INFO App Log - Total verification  count 2
+2015-12-15 17:23:09,404 [AWT-EventQueue-0] INFO App Log - Total pass  count 2
+2015-12-15 17:23:09,404 [AWT-EventQueue-0] INFO App Log - Total fail   count 0
+2015-12-15 17:28:19,174 [AWT-EventQueue-0] INFO App Log - Launched Browser
+2015-12-15 17:28:19,465 [AWT-EventQueue-0] INFO App Log - Verified title
+2015-12-15 17:28:22,422 [AWT-EventQueue-0] INFO App Log - Entered values in text box 
+2015-12-15 17:28:29,552 [AWT-EventQueue-0] INFO App Log - value selected from drop down  Mar
+2015-12-15 17:28:36,339 [AWT-EventQueue-0] INFO App Log - Radio button clicked 
+2015-12-15 17:28:43,410 [AWT-EventQueue-0] INFO App Log - Clicked on submit 
+2015-12-15 17:28:45,410 [AWT-EventQueue-0] INFO App Log - Total verification  count 2
+2015-12-15 17:28:45,410 [AWT-EventQueue-0] INFO App Log - Total pass  count 2
+2015-12-15 17:28:45,411 [AWT-EventQueue-0] INFO App Log - Total fail   count 0
+2015-12-19 08:56:10,326 [AWT-EventQueue-0] INFO App Log - Launched Browser
+2015-12-19 08:56:10,723 [AWT-EventQueue-0] INFO App Log - Verified titleGet Insurance Quotes – Save on Auto Insurance – State Farm®
+2015-12-19 08:56:20,201 [AWT-EventQueue-0] INFO App Log - value selected from drop down  Renters
+2015-12-19 08:59:38,083 [AWT-EventQueue-0] INFO App Log - Launched Browser
+2015-12-19 08:59:38,574 [AWT-EventQueue-0] INFO App Log - Verified titleGet Insurance Quotes – Save on Auto Insurance – State Farm®
+2015-12-19 08:59:47,980 [AWT-EventQueue-0] INFO App Log - value selected from drop down  Renters
+2015-12-19 08:59:53,818 [AWT-EventQueue-0] INFO App Log - Entered values in text box sZip
+2015-12-19 09:02:03,026 [AWT-EventQueue-0] INFO App Log - Launched Browser
+2015-12-19 09:02:03,437 [AWT-EventQueue-0] INFO App Log - Verified titleGet Insurance Quotes – Save on Auto Insurance – State Farm®
+2015-12-19 09:02:13,072 [AWT-EventQueue-0] INFO App Log - value selected from drop down  Renters
+2015-12-19 09:02:18,788 [AWT-EventQueue-0] INFO App Log - Entered values in text box sZip
+2015-12-19 09:04:08,261 [AWT-EventQueue-0] INFO App Log - Launched Browser
+2015-12-19 09:04:09,047 [AWT-EventQueue-0] INFO App Log - Entered values in text box globalSearchInputField
+2015-12-19 09:04:25,473 [AWT-EventQueue-0] INFO App Log - Clicked on submit subnavSearchSubmit
+2015-12-19 09:04:35,129 [AWT-EventQueue-0] INFO App Log - value selected from drop down  Price (low to high)
+2015-12-19 09:04:45,818 [AWT-EventQueue-0] INFO App Log - clicked on linkhref_myAccountHeader
+2015-12-19 09:04:55,097 [AWT-EventQueue-0] INFO App Log - Clicked on submit signInBtn
+2015-12-19 09:05:00,185 [AWT-EventQueue-0] INFO App Log - Entered values in text box email
+2015-12-19 09:05:05,438 [AWT-EventQueue-0] INFO App Log - Entered values in text box password
+2015-12-19 09:05:17,777 [AWT-EventQueue-0] INFO App Log - Clicked on submit signInBtn
+2015-12-19 09:05:21,778 [AWT-EventQueue-0] INFO App Log - Total verification  count 3
+2015-12-19 09:05:21,779 [AWT-EventQueue-0] INFO App Log - Total pass  count 3
+2015-12-19 09:05:21,780 [AWT-EventQueue-0] INFO App Log - Total fail   count 0
+2015-12-19 09:07:15,161 [AWT-EventQueue-0] INFO App Log - Launched Browser
+2015-12-19 09:07:16,154 [AWT-EventQueue-0] INFO App Log - Entered values in text box globalSearchInputField
+2015-12-19 09:07:32,237 [AWT-EventQueue-0] INFO App Log - Clicked on submit subnavSearchSubmit
+2015-12-19 09:07:41,702 [AWT-EventQueue-0] INFO App Log - value selected from drop down  Price (low to high)
+2015-12-19 09:07:52,129 [AWT-EventQueue-0] INFO App Log - clicked on linkhref_myAccountHeader
+2015-12-19 09:08:01,586 [AWT-EventQueue-0] INFO App Log - Clicked on submit signInBtn
+2015-12-19 09:08:06,324 [AWT-EventQueue-0] INFO App Log - Entered values in text box email
+2015-12-19 09:08:10,566 [AWT-EventQueue-0] INFO App Log - Entered values in text box password
+2015-12-19 09:08:22,256 [AWT-EventQueue-0] INFO App Log - Clicked on submit signInBtn
+2015-12-19 09:08:26,257 [AWT-EventQueue-0] INFO App Log - Total verification  count 3
+2015-12-19 09:08:26,258 [AWT-EventQueue-0] INFO App Log - Total pass  count 3
+2015-12-19 09:08:26,259 [AWT-EventQueue-0] INFO App Log - Total fail   count 0
+2015-12-19 09:12:30,165 [AWT-EventQueue-0] INFO App Log - Launched Browser
+2015-12-19 09:12:30,989 [AWT-EventQueue-0] INFO App Log - Entered values in text box globalSearchInputField
+2015-12-19 09:12:47,796 [AWT-EventQueue-0] INFO App Log - Clicked on submit subnavSearchSubmit
+2015-12-19 09:12:57,158 [AWT-EventQueue-0] INFO App Log - value selected from drop down  Price (low to high)
+2015-12-19 09:13:07,539 [AWT-EventQueue-0] INFO App Log - clicked on linkhref_myAccountHeader
+2015-12-19 09:13:16,911 [AWT-EventQueue-0] INFO App Log - Clicked on submit signInBtn
+2015-12-19 09:13:22,413 [AWT-EventQueue-0] INFO App Log - Entered values in text box email
+2015-12-19 09:13:27,614 [AWT-EventQueue-0] INFO App Log - Entered values in text box password
+2015-12-19 09:13:40,759 [AWT-EventQueue-0] INFO App Log - Clicked on submit signInBtn
+2015-12-19 09:13:44,760 [AWT-EventQueue-0] INFO App Log - Total verification  count 3
+2015-12-19 09:13:44,761 [AWT-EventQueue-0] INFO App Log - Total pass  count 3
+2015-12-19 09:13:44,762 [AWT-EventQueue-0] INFO App Log - Total fail   count 0
+2015-12-19 09:18:11,952 [AWT-EventQueue-0] INFO App Log - Launched Browser
+2015-12-19 09:18:12,803 [AWT-EventQueue-0] INFO App Log - Entered values in text box globalSearchInputField
+2015-12-19 09:18:29,986 [AWT-EventQueue-0] INFO App Log - Clicked on submit subnavSearchSubmit
+2015-12-19 09:18:39,615 [AWT-EventQueue-0] INFO App Log - value selected from drop down  Price (low to high)
+2015-12-19 09:18:43,615 [AWT-EventQueue-0] INFO App Log - Total verification  count 1
+2015-12-19 09:18:43,616 [AWT-EventQueue-0] INFO App Log - Total pass  count 1
+2015-12-19 09:18:43,618 [AWT-EventQueue-0] INFO App Log - Total fail   count 0
+2015-12-19 09:20:00,410 [AWT-EventQueue-0] INFO App Log - Launched Browser
+2015-12-19 09:20:01,255 [AWT-EventQueue-0] INFO App Log - Entered values in text box globalSearchInputField
+2015-12-19 09:20:17,437 [AWT-EventQueue-0] INFO App Log - Clicked on submit subnavSearchSubmit
+2015-12-19 09:20:27,240 [AWT-EventQueue-0] INFO App Log - value selected from drop down  Price (low to high)
+2015-12-19 09:20:31,240 [AWT-EventQueue-0] INFO App Log - Total verification  count 1
+2015-12-19 09:20:31,241 [AWT-EventQueue-0] INFO App Log - Total pass  count 1
+2015-12-19 09:20:31,242 [AWT-EventQueue-0] INFO App Log - Total fail   count 0
+2015-12-19 09:22:12,274 [AWT-EventQueue-0] INFO App Log - Launched Browser
+2015-12-19 09:22:13,205 [AWT-EventQueue-0] INFO App Log - Entered values in text box globalSearchInputField
+2015-12-19 09:22:29,002 [AWT-EventQueue-0] INFO App Log - Clicked on submit subnavSearchSubmit
+2015-12-19 09:22:38,772 [AWT-EventQueue-0] INFO App Log - value selected from drop down  Price (low to high)
+2015-12-19 09:22:42,773 [AWT-EventQueue-0] INFO App Log - Total verification  count 1
+2015-12-19 09:22:42,774 [AWT-EventQueue-0] INFO App Log - Total pass  count 1
+2015-12-19 09:22:42,776 [AWT-EventQueue-0] INFO App Log - Total fail   count 0
+2015-12-19 12:16:51,482 [AWT-EventQueue-0] INFO App Log - Launched Browser
+2015-12-19 12:16:56,057 [AWT-EventQueue-0] INFO App Log - value selected from drop down  Renters
+2015-12-19 12:17:00,553 [AWT-EventQueue-0] INFO App Log - Entered values in text box sZip
+2015-12-19 12:17:08,817 [AWT-EventQueue-0] INFO App Log - Clicked on submit getAQuoteGo
+2015-12-19 12:17:12,968 [AWT-EventQueue-0] INFO App Log - Entered values in text box firstName
+2015-12-19 12:17:16,941 [AWT-EventQueue-0] INFO App Log - Entered values in text box lastName
+2015-12-19 12:17:21,419 [AWT-EventQueue-0] INFO App Log - Entered values in text box street1
+2015-12-19 12:17:25,799 [AWT-EventQueue-0] INFO App Log - Entered values in text box primaryApplicantDOB__1
+2015-12-19 12:17:30,098 [AWT-EventQueue-0] INFO App Log - Entered values in text box primaryApplicantDOB__2
+2015-12-19 12:17:34,387 [AWT-EventQueue-0] INFO App Log - Entered values in text box primaryApplicantDOB__3
+2015-12-19 12:17:41,170 [AWT-EventQueue-0] INFO App Log - Clicked on submit buttonContinueId
+2015-12-19 12:17:47,863 [AWT-EventQueue-0] INFO App Log - Clicked on submit continueButton_retryAddressModalBtnWrpr
+2015-12-19 12:17:50,864 [AWT-EventQueue-0] INFO App Log - Total verification  count 3
+2015-12-19 12:17:50,865 [AWT-EventQueue-0] INFO App Log - Total pass  count 3
+2015-12-19 12:17:50,866 [AWT-EventQueue-0] INFO App Log - Total fail   count 0
+2015-12-19 12:18:53,344 [AWT-EventQueue-0] INFO App Log - Launched Browser
+2015-12-19 12:19:53,554 [AWT-EventQueue-0] INFO App Log - Launched Browser
+2015-12-19 12:19:54,305 [AWT-EventQueue-0] INFO App Log - Entered values in text box searchinput
+2015-12-19 12:20:05,137 [AWT-EventQueue-0] INFO App Log - Clicked on submit searchbtn
+2015-12-19 12:20:11,108 [AWT-EventQueue-0] INFO App Log - clicked on linkResources
+2015-12-19 12:20:16,194 [AWT-EventQueue-0] INFO App Log - clicked on linkInsights
+2015-12-19 12:20:22,442 [AWT-EventQueue-0] INFO App Log - clicked on linkWhite Papers
+2015-12-19 12:20:31,474 [AWT-EventQueue-0] INFO App Log - Clicked on submit findButton
+2015-12-19 12:20:34,475 [AWT-EventQueue-0] INFO App Log - Total verification  count 2
+2015-12-19 12:20:34,476 [AWT-EventQueue-0] INFO App Log - Total pass  count 2
+2015-12-19 12:20:34,477 [AWT-EventQueue-0] INFO App Log - Total fail   count 0
+2015-12-19 13:33:56,360 [AWT-EventQueue-0] INFO App Log - Launched Browser
+2015-12-19 13:33:57,159 [AWT-EventQueue-0] INFO App Log - Entered values in text box globalSearchInputField
+2015-12-19 13:34:11,021 [AWT-EventQueue-0] INFO App Log - Clicked on submit subnavSearchSubmit
+2015-12-19 13:34:18,637 [AWT-EventQueue-0] INFO App Log - value selected from drop down  Price (low to high)
+2015-12-19 13:34:29,024 [AWT-EventQueue-0] INFO App Log - clicked on linkhref_myAccountHeader
+2015-12-19 13:34:36,772 [AWT-EventQueue-0] INFO App Log - Clicked on submit signInBtn
+2015-12-19 13:34:41,339 [AWT-EventQueue-0] INFO App Log - Entered values in text box email
+2015-12-19 13:34:45,883 [AWT-EventQueue-0] INFO App Log - Entered values in text box password
+2015-12-19 13:34:57,247 [AWT-EventQueue-0] INFO App Log - Clicked on submit signInBtn
+2015-12-19 13:35:00,247 [AWT-EventQueue-0] INFO App Log - Total verification  count 3
+2015-12-19 13:35:00,248 [AWT-EventQueue-0] INFO App Log - Total pass  count 3
+2015-12-19 13:35:00,249 [AWT-EventQueue-0] INFO App Log - Total fail   count 0

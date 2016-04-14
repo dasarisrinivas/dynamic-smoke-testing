@@ -1,0 +1,39 @@
+<list>
+	<dataset>
+		<id>1</id>
+		<objectType>Title</objectType>
+		<objectIdentification></objectIdentification>
+		<objectName></objectName>
+		<objectValue></objectValue>
+		<objectAction>Verification</objectAction>
+		<expectedValue>Ultimatix - Digitally Connected !</expectedValue>
+	</dataset>
+	<dataset>
+		<id>2</id>
+	    <objectType>textbox</objectType>
+		<objectIdentification>id</objectIdentification>
+		<objectName>USER</objectName>
+		<objectValue>sample</objectValue>
+		<objectAction>sendkeys</objectAction>
+		<expectedValue></expectedValue>
+	</dataset>
+	<dataset>
+		<id>3</id>
+		<objectType>textbox</objectType>
+		<objectIdentification>id</objectIdentification>
+		<objectName>PASSWORD</objectName>
+		<objectValue>sample</objectValue>
+		<objectAction>sendkeys</objectAction>
+		<expectedValue></expectedValue>
+	</dataset>
+	<dataset>
+		<id>4</id>
+		<objectType>link</objectType>
+		<objectIdentification>linktext</objectIdentification>
+		<objectName>ForgotUsernamePwdLink</objectName>
+		<objectValue></objectValue>
+		<objectAction>click</objectAction>
+		<expectedValue></expectedValue>
+	</dataset>
+
+</list>

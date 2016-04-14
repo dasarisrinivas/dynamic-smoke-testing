@@ -1,0 +1,49 @@
+<list>
+	<dataset>
+		<id>1</id>
+		<objectType>Title</objectType>
+		<objectIdentification></objectIdentification>
+		<objectName></objectName>
+		<objectValue></objectValue>
+		<objectAction>Verification</objectAction>
+		<expectedValue>Gmail</expectedValue>
+	</dataset>
+	<dataset>
+		<id>2</id>
+		<objectType>link</objectType>
+		<objectIdentification>linktext</objectIdentification>
+		<objectName>Create account</objectName>
+		<objectValue></objectValue>
+		<objectAction>click</objectAction>
+		<expectedValue></expectedValue>
+	</dataset>
+	<dataset>
+		<id>3</id>
+		<objectType>textbox</objectType>
+		<objectIdentification>id</objectIdentification>
+		<objectName>FirstName</objectName>
+		<objectValue>sample</objectValue>
+		<objectAction>sendkeys</objectAction>
+		<expectedValue></expectedValue>
+	</dataset>
+	<dataset>
+		<id>4</id>
+		<objectType>checkbox</objectType>
+		<objectIdentification>id</objectIdentification>
+		<objectName>SkipCaptcha</objectName>
+		<objectValue></objectValue>
+		<objectAction>check</objectAction>
+		<expectedValue></expectedValue>
+	</dataset>
+
+	<dataset>
+		<id>5</id>
+		<objectType>button</objectType>
+		<objectIdentification>name</objectIdentification>
+		<objectName>submitbutton</objectName>
+		<objectValue></objectValue>
+		<objectAction>submit</objectAction>
+		<expectedValue>You can't leave this empty</expectedValue>
+	</dataset>
+
+</list>
