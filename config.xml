@@ -1,0 +1,6 @@
+<config>
+		<ieDriverPath>C:/Selenium/IEDriverServer.exe</ieDriverPath>
+		<chromeDriverPath>C:/Selenium/chromedriver.exe</chromeDriverPath>
+		<screenshotsPath>C:/Selenium/screenshots/</screenshotsPath>
+		<logsPath>C:/Selenium/logs/</logsPath>
+</config>

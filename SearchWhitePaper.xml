@@ -1,0 +1,59 @@
+<list>
+
+	<dataset>
+		<id>2</id>
+		<objectType>textbox</objectType>
+		<objectIdentification>id</objectIdentification>
+		<objectName>searchinput</objectName>
+		<objectValue> </objectValue>
+		<objectAction>sendkeys</objectAction>
+		<expectedValue></expectedValue>
+	</dataset>
+	<dataset>
+		<id>3</id>
+		<objectType>button</objectType>
+		<objectIdentification>id</objectIdentification>
+		<objectName>searchbtn</objectName>
+		<objectValue></objectValue>
+		<objectAction>submit</objectAction>
+		<expectedValue>news</expectedValue>
+	</dataset>
+	<dataset>
+		<id>4</id>
+		<objectType>link</objectType>
+		<objectIdentification>linkText</objectIdentification>
+		<objectName>Resources</objectName>
+		<objectValue></objectValue>
+		<objectAction>click</objectAction>
+		<expectedValue></expectedValue>
+	</dataset>
+	<dataset>
+		<id>5</id>
+		<objectType>link</objectType>
+		<objectIdentification>linkText</objectIdentification>
+		<objectName>Insights</objectName>
+		<objectValue></objectValue>
+		<objectAction>click</objectAction>
+		<expectedValue></expectedValue>
+	</dataset>
+	<dataset>
+		<id>6</id>
+		<objectType>link</objectType>
+		<objectIdentification>linkText</objectIdentification>
+		<objectName>White Papers</objectName>
+		<objectValue></objectValue>
+		<objectAction>click</objectAction>
+		<expectedValue></expectedValue>
+	</dataset>
+	
+	<dataset>
+		<id>7</id>
+		<objectType>button</objectType>
+		<objectIdentification>id</objectIdentification>
+		<objectName>findButton</objectName>
+		<objectValue></objectValue>
+		<objectAction>submit</objectAction>
+		<expectedValue>Insights</expectedValue>
+	</dataset>
+	
+</list>
